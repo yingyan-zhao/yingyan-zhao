@@ -14,3 +14,4 @@ Libraries: pandas, NumPy, requests, BeautifulSoup, scikit-learn, PyTorch, Huggin
 Core Areas: Machine Learning, Causal Inference, Data Wrangling, Econometric Modeling, Data Visualization
 
 ## More About Me
+For academic publications and teaching, visit my personal website 
