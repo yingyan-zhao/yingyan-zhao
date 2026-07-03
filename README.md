@@ -1,16 +1,16 @@
-## Hi there 👋
+## Yingyan Zhao
 
-<!--
-**yingyan-zhao/yingyan-zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Assistant Professor of Economics transitioning into a data science career. My background is in international trade, development economics and applied econometrics, with extensive experience in empirical and structural modeling, causal inference, and working with large-scale structured datasets.
 
-Here are some ideas to get you started:
+I started to build a portfolio of Python projects that apply my skills of large data processing and machine learning to real-world problems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with Python for large-scale academic data collection, cleaning, merging, web scraping, and machine-learning classification. My toolkit includes pandas, NumPy, requests, BeautifulSoup, scikit-learn, PyTorch, Hugging Face Transformers, and APIs such as OpenAlex, Crossref, RePEc, NBER, and AEA journal metadata.
+
+## Selected Projects
+
+## Technical Skills
+Languages & Tools: Python, C++, Matlab, Stata, Git/GitHub, Stata
+Libraries: pandas, NumPy, requests, BeautifulSoup, scikit-learn, PyTorch, Hugging Face Transformers, and APIs such as OpenAlex, Crossref, RePEc, NBER, and AEA journal metadata.
+Core Areas: Machine Learning, Causal Inference, Data Wrangling, Econometric Modeling, Data Visualization
+
+## More About Me
